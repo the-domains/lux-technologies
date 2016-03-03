@@ -1,14 +1,29 @@
+name: LUX Technologies
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.4234042
+title: LUX Technologies
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8726411
-  lightness: 0.8786183
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#70A8A9'
     - '#4B4F50'
     - '#BEBEBF'
     - '#6D6D6D'
+  brandStrength: 1
+  lightness: 0.8786183
+  saturation: 0.8726411
   rhythmicContrast: 0.912513
-name: LUX Technologies
+purpose: []
